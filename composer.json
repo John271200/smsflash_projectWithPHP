@@ -1,0 +1,14 @@
+{
+    "name": "agbes/smsflash",
+    "description": "envoie sms flash",
+    "type": "projet",
+    "authors": [
+        {
+            "name": "john"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "twilio/sdk": "^7.3"
+    }
+}
